@@ -1,2 +1,2 @@
 # Tubes-PBO_KUWOCI
-tubes app java netbeans kuwoci
+tubes app java netbeans KUWOCI (Kuliner Wong Cirebon)
